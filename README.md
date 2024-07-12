@@ -18,7 +18,9 @@ Split data into training (80%) and testing (20%) sets.
 **Methodology:**
 
 **Model Selection:** Used Extra Trees Classifier, Quadratic Discriminant Analysis, and Random Forest Classifier.
+
 **Model Training:** Trained each model on the training dataset.
+
 **Model Evaluation:** Evaluated models using accuracy, precision, recall, F1 score, and Jaccard score.
 
 **Results:**
